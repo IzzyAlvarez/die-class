@@ -1,3 +1,4 @@
+TheIsabelAlvarez
 1. To https://github.com/IzzyAlvarez/die-class.git
  ! [rejected]        master -> master (fetch first)
 error: failed to push some refs to 'https://github.com/IzzyAlvarez/die-class.git'
